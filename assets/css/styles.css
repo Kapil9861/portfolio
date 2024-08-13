@@ -510,3 +510,11 @@ img {
   width: 100%; /* Ensure the image takes up the entire container */
   max-width: 100%; /* Prevent image overflow */
 }
+
+
+.images_inside_project img{
+  display: inline-block;
+  justify-items: center;
+  justify-content: center;
+  width: 32%;
+}
