@@ -518,3 +518,10 @@ img {
   justify-content: center;
   width: 32%;
 }
+
+.apk_container a{
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  margin: 0% 10% 5% 2%;
+}
